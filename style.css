@@ -1,0 +1,9 @@
+.images {
+    height: 150px;
+    width: 100;
+}
+
+.message-board-wrapper{
+    display: flex;
+    justify-content: space-between;
+    }
